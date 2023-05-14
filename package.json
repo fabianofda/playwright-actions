@@ -6,9 +6,10 @@
   "directories": {
     "test": "tests"
   },
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "Fernando Papito",
-  "license": "MIT"
+  "scripts": {},
+  "author": "Fabiano Dias de Andrade",
+  "license": "MIT",
+  "devDependencies": {
+    "@playwright/test": "^1.33.0"
+  }
 }
